@@ -1,4 +1,5 @@
 # Dingtalk-GPU-Monitor
+**For the English version, please refer to [README.md](README.md).**
 一个开源Bash脚本，用于监控NVIDIA GPU的利用率和内存使用情况。通过DingTalk webhook发送通知。该脚本设计为无需管理员权限即可运行，适合服务器环境中的自动化监控。
 脚本强调可配置性和安全性，例如：
 - 通过命令行参数或环境变量自定义配置。
