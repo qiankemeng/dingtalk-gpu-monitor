@@ -1,4 +1,5 @@
 # Dingtalk-GPU-Monitor
+**For the Chinese version, please refer to [README_zh.md](README_zh.md).**
 An open-source Bash script for monitoring NVIDIA GPU utilization and memory usage. It sends notifications via DingTalk webhook. The script is designed to run without administrator privileges, making it suitable for automated monitoring in server environments.
 The script emphasizes configurability and security, for example:
 - Custom configuration through command-line parameters or environment variables.
