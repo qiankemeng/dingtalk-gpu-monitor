@@ -91,7 +91,7 @@
    - **解释**：
      - `*/10 * * * *`：表示每10分钟执行一次。
      - **环境变量列表**：
-       - `WEBHOOK_URL="your_webhook_url"`：DingTalk webhook URL（必需，不要在示例中使用实际值）。
+       - `WEBHOOK_URL="your_webhook_url"`：DingTalk webhook URL。
        - `ENV_SERVER_IP="your_server_ip"`：服务器内网IP地址。
        - `ENV_THRESHOLD_PERCENT="40"`：内存下降阈值百分比（默认40）。
        - `ENV_GPU_COUNT="4"`：服务器上GPU的数量（默认4）。
